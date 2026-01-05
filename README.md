@@ -39,7 +39,7 @@ Gold Layer (Fact & Dimension Views)
 
 ------------------------------------------------------------
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - SQL Server
 - T-SQL
@@ -51,7 +51,7 @@ Gold Layer (Fact & Dimension Views)
 
 ------------------------------------------------------------
 
-## 🥉 Bronze Layer – Raw Data
+## Bronze Layer – Raw Data
 
 **Purpose:**  
 Store raw, source-aligned data with minimal transformation.
@@ -73,7 +73,7 @@ Store raw, source-aligned data with minimal transformation.
 
 ------------------------------------------------------------
 
-## 🥈 Silver Layer – Cleansed & Transformed Data
+## Silver Layer – Cleansed & Transformed Data
 
 **Purpose:**  
 Prepare clean, standardized, and enriched data for analytics.
